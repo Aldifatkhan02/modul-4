@@ -3,7 +3,7 @@ public class nomer4 {
         int[] data = {25,7,9,13,3};
         printData(data);
         shellSort(data);
-        System.out.println("\nsorted by Yusron");
+        System.out.println("\nsorted by aldi");
         printData(data);
     }
     public static void printData(int data[]){
